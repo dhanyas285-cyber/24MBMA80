@@ -1,8 +1,8 @@
 
 
-# 💇‍♀️ Salon & Spa – Service Utilization & Customer Insights
+#  Salon & Spa – Service Utilization & Customer Insights
 
-## 📌 Industry Scenario
+##  Industry Scenario
 
 This project analyzes **customer booking data** from a Salon & Spa to identify:
 
@@ -13,7 +13,7 @@ This project analyzes **customer booking data** from a Salon & Spa to identify:
 
 ---
 
-## 📂 Dataset (50–100 Records)
+##  Dataset (50–100 Records)
 
 Columns:
 
@@ -23,7 +23,7 @@ Columns:
 
 ---
 
-## ⚡ Approach
+##  Approach
 
 * **PySpark Core** → Revenue per category, average booking duration
 * **PySpark SQL** → Most popular services, peak hours, peak days
@@ -31,7 +31,7 @@ Columns:
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 ### Revenue by Category
 
