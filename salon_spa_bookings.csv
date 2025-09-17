@@ -1,0 +1,101 @@
+booking_id,customer_id,customer_name,gender,age,locality,staff_id,staff_name,service_id,service_name,price,booking_date,appointment_time,amount_spent,status
+B001,C004,Aarav,Female,33,Gachibowli,T002,Pooja,S001,Haircut,400,2025-09-03,18:30,400,Completed
+B002,C001,Vivaan,Male,32,Secunderabad,T005,Meera,S005,Pedicure,900,2025-09-07,20:30,900,Completed
+B003,C015,Rahul,Female,18,Gachibowli,T006,Suresh,S003,Massage,1500,2025-09-09,11:00,1500,Cancelled
+B004,C004,Vivaan,Female,24,Madhapur,T007,Kavya,S005,Pedicure,900,2025-09-09,09:30,900,Completed
+B005,C013,Vivaan,Female,41,Secunderabad,T002,Pooja,S001,Haircut,400,2025-09-02,19:00,400,Cancelled
+B006,C003,Ananya,Male,42,Madhapur,T004,Pooja,S003,Massage,1500,2025-09-06,14:30,1500,Completed
+B007,C009,Vivaan,Male,52,Gachibowli,T002,Suresh,S004,Manicure,800,2025-09-09,19:00,800,Cancelled
+B008,C002,Ananya,Male,38,Kukatpally,T003,Meera,S002,Facial,1200,2025-09-11,12:30,1200,Cancelled
+B009,C015,Diya,Female,26,Gachibowli,T006,Anil,S005,Pedicure,900,2025-09-09,20:30,900,Cancelled
+B010,C012,Ananya,Male,50,Kukatpally,T001,Arjun,S001,Haircut,400,2025-09-04,11:00,400,Cancelled
+B011,C020,Vivaan,Female,42,Secunderabad,T004,Anil,S003,Massage,1500,2025-09-01,19:00,1500,Cancelled
+B012,C011,Vivaan,Female,45,Gachibowli,T004,Meera,S006,Hair Coloring,2500,2025-09-09,17:00,2500,Completed
+B013,C010,Neha,Male,27,Madhapur,T007,Rajesh,S005,Pedicure,900,2025-09-17,09:30,900,Cancelled
+B014,C001,Vivaan,Female,37,Gachibowli,T001,Rajesh,S005,Pedicure,900,2025-09-03,10:30,900,Completed
+B015,C018,Diya,Male,48,Secunderabad,T002,Kavya,S005,Pedicure,900,2025-09-14,12:00,900,Cancelled
+B016,C013,Riya,Female,51,Kukatpally,T001,Rajesh,S002,Facial,1200,2025-09-03,14:00,1200,Completed
+B017,C019,Ananya,Male,22,Banjara Hills,T002,Meera,S001,Haircut,400,2025-09-11,10:00,400,Cancelled
+B018,C016,Ananya,Male,54,Secunderabad,T004,Rajesh,S004,Manicure,800,2025-09-14,12:00,800,Completed
+B019,C014,Riya,Female,44,Kukatpally,T007,Pooja,S001,Haircut,400,2025-09-04,09:30,400,Cancelled
+B020,C004,Ananya,Male,30,Secunderabad,T004,Rajesh,S004,Manicure,800,2025-09-06,13:30,800,Completed
+B021,C003,Aditi,Male,21,Secunderabad,T007,Meera,S001,Haircut,400,2025-09-08,11:30,400,Cancelled
+B022,C016,Ananya,Female,21,Gachibowli,T004,Meera,S004,Manicure,800,2025-09-09,16:30,800,Cancelled
+B023,C018,Aditi,Male,30,Madhapur,T002,Meera,S005,Pedicure,900,2025-09-02,20:30,900,Completed
+B024,C002,Rahul,Female,50,Secunderabad,T002,Meera,S005,Pedicure,900,2025-09-03,11:00,900,Completed
+B025,C008,Kabir,Male,54,Gachibowli,T005,Anil,S001,Haircut,400,2025-09-03,15:30,400,Cancelled
+B026,C007,Riya,Male,34,Kukatpally,T002,Pooja,S006,Hair Coloring,2500,2025-09-10,16:30,2500,Completed
+B027,C001,Aditi,Male,22,Secunderabad,T002,Anil,S003,Massage,1500,2025-09-05,14:00,1500,Completed
+B028,C012,Ishaan,Male,46,Secunderabad,T006,Kavya,S005,Pedicure,900,2025-09-17,09:30,900,Completed
+B029,C005,Ishaan,Male,24,Secunderabad,T002,Kavya,S003,Massage,1500,2025-09-07,20:30,1500,Completed
+B030,C009,Neha,Female,34,Banjara Hills,T001,Pooja,S004,Manicure,800,2025-09-09,09:00,800,Cancelled
+B031,C005,Ishaan,Male,46,Secunderabad,T006,Suresh,S005,Pedicure,900,2025-09-01,10:00,900,Completed
+B032,C018,Aarav,Female,55,Secunderabad,T002,Suresh,S002,Facial,1200,2025-09-02,13:30,1200,Completed
+B033,C012,Ananya,Male,24,Madhapur,T007,Anil,S004,Manicure,800,2025-09-05,12:00,800,Completed
+B034,C014,Aarav,Male,39,Kukatpally,T007,Pooja,S006,Hair Coloring,2500,2025-09-08,13:00,2500,Completed
+B035,C013,Aarav,Female,32,Gachibowli,T007,Suresh,S003,Massage,1500,2025-09-10,12:00,1500,Completed
+B036,C007,Kabir,Female,35,Banjara Hills,T007,Kavya,S003,Massage,1500,2025-09-17,15:30,1500,Completed
+B037,C004,Ishaan,Male,55,Madhapur,T001,Meera,S005,Pedicure,900,2025-09-14,14:30,900,Cancelled
+B038,C020,Neha,Male,42,Secunderabad,T002,Kavya,S001,Haircut,400,2025-09-14,09:00,400,Cancelled
+B039,C014,Vivaan,Female,38,Banjara Hills,T006,Kavya,S005,Pedicure,900,2025-09-10,19:30,900,Cancelled
+B040,C013,Ishaan,Male,30,Kukatpally,T006,Suresh,S006,Hair Coloring,2500,2025-09-06,18:30,2500,Cancelled
+B041,C018,Aarav,Female,36,Gachibowli,T004,Arjun,S005,Pedicure,900,2025-09-11,16:30,900,Cancelled
+B042,C007,Neha,Female,28,Banjara Hills,T003,Anil,S006,Hair Coloring,2500,2025-09-11,10:00,2500,Cancelled
+B043,C008,Ananya,Male,19,Banjara Hills,T002,Suresh,S005,Pedicure,900,2025-09-03,16:30,900,Completed
+B044,C013,Aditi,Female,33,Gachibowli,T006,Pooja,S001,Haircut,400,2025-09-04,15:00,400,Completed
+B045,C017,Aditi,Male,53,Gachibowli,T007,Meera,S004,Manicure,800,2025-09-05,16:30,800,Cancelled
+B046,C020,Neha,Female,53,Kukatpally,T002,Pooja,S004,Manicure,800,2025-09-15,13:00,800,Cancelled
+B047,C017,Aditi,Male,35,Kukatpally,T001,Pooja,S003,Massage,1500,2025-09-08,13:30,1500,Cancelled
+B048,C018,Vivaan,Male,27,Gachibowli,T004,Pooja,S002,Facial,1200,2025-09-07,10:30,1200,Cancelled
+B049,C011,Neha,Female,44,Banjara Hills,T002,Arjun,S004,Manicure,800,2025-09-13,18:00,800,Cancelled
+B050,C016,Aarav,Female,37,Kukatpally,T007,Arjun,S004,Manicure,800,2025-09-08,16:00,800,Cancelled
+B051,C014,Aditi,Male,42,Madhapur,T006,Pooja,S004,Manicure,800,2025-09-06,16:00,800,Completed
+B052,C013,Rahul,Male,23,Kukatpally,T002,Arjun,S004,Manicure,800,2025-09-06,09:30,800,Cancelled
+B053,C011,Ananya,Female,38,Madhapur,T007,Suresh,S003,Massage,1500,2025-09-14,13:00,1500,Cancelled
+B054,C001,Neha,Male,40,Gachibowli,T006,Meera,S006,Hair Coloring,2500,2025-09-02,09:00,2500,Completed
+B055,C001,Rahul,Male,33,Gachibowli,T004,Pooja,S001,Haircut,400,2025-09-07,16:30,400,Cancelled
+B056,C006,Rahul,Male,28,Madhapur,T001,Anil,S001,Haircut,400,2025-09-10,18:30,400,Cancelled
+B057,C007,Vivaan,Male,24,Madhapur,T007,Pooja,S005,Pedicure,900,2025-09-04,18:00,900,Cancelled
+B058,C018,Kabir,Female,22,Secunderabad,T006,Kavya,S001,Haircut,400,2025-09-14,16:00,400,Cancelled
+B059,C012,Aditi,Male,45,Gachibowli,T006,Anil,S006,Hair Coloring,2500,2025-09-09,18:30,2500,Cancelled
+B060,C014,Rahul,Female,38,Gachibowli,T007,Meera,S003,Massage,1500,2025-09-15,12:30,1500,Cancelled
+B061,C011,Aarav,Female,38,Gachibowli,T004,Rajesh,S003,Massage,1500,2025-09-09,14:30,1500,Cancelled
+B062,C018,Aarav,Male,23,Gachibowli,T006,Suresh,S004,Manicure,800,2025-09-08,20:30,800,Cancelled
+B063,C015,Aarav,Male,36,Gachibowli,T004,Pooja,S002,Facial,1200,2025-09-10,19:30,1200,Cancelled
+B064,C018,Neha,Female,45,Secunderabad,T003,Kavya,S006,Hair Coloring,2500,2025-09-15,13:30,2500,Cancelled
+B065,C008,Vivaan,Male,38,Banjara Hills,T006,Anil,S006,Hair Coloring,2500,2025-09-06,12:00,2500,Cancelled
+B066,C009,Rahul,Female,24,Gachibowli,T003,Rajesh,S003,Massage,1500,2025-09-06,13:00,1500,Completed
+B067,C009,Aarav,Male,53,Madhapur,T006,Rajesh,S006,Hair Coloring,2500,2025-09-16,10:00,2500,Cancelled
+B068,C016,Aditi,Female,39,Gachibowli,T001,Kavya,S004,Manicure,800,2025-09-04,10:30,800,Cancelled
+B069,C003,Rahul,Male,27,Gachibowli,T007,Anil,S003,Massage,1500,2025-09-03,12:00,1500,Cancelled
+B070,C020,Rahul,Male,51,Kukatpally,T004,Suresh,S003,Massage,1500,2025-09-14,13:00,1500,Completed
+B071,C007,Ananya,Female,23,Gachibowli,T002,Rajesh,S005,Pedicure,900,2025-09-03,11:00,900,Cancelled
+B072,C015,Rahul,Female,36,Banjara Hills,T002,Kavya,S006,Hair Coloring,2500,2025-09-10,20:30,2500,Completed
+B073,C008,Ishaan,Male,45,Banjara Hills,T005,Rajesh,S006,Hair Coloring,2500,2025-09-05,13:00,2500,Completed
+B074,C002,Diya,Female,54,Madhapur,T004,Meera,S004,Manicure,800,2025-09-10,20:30,800,Cancelled
+B075,C017,Neha,Female,46,Banjara Hills,T005,Meera,S004,Manicure,800,2025-09-11,18:30,800,Completed
+B076,C003,Ananya,Male,35,Secunderabad,T001,Arjun,S002,Facial,1200,2025-09-16,17:30,1200,Cancelled
+B077,C006,Rahul,Female,49,Banjara Hills,T004,Kavya,S004,Manicure,800,2025-09-11,14:00,800,Completed
+B078,C011,Kabir,Female,36,Kukatpally,T007,Arjun,S005,Pedicure,900,2025-09-02,16:00,900,Cancelled
+B079,C009,Riya,Male,43,Secunderabad,T007,Meera,S006,Hair Coloring,2500,2025-09-15,15:00,2500,Completed
+B080,C017,Riya,Female,46,Banjara Hills,T002,Kavya,S005,Pedicure,900,2025-09-05,13:30,900,Cancelled
+B081,C004,Aarav,Male,28,Madhapur,T005,Meera,S005,Pedicure,900,2025-09-14,10:00,900,Completed
+B082,C015,Vivaan,Male,49,Madhapur,T005,Pooja,S003,Massage,1500,2025-09-14,16:30,1500,Completed
+B083,C015,Neha,Male,42,Gachibowli,T005,Anil,S006,Hair Coloring,2500,2025-09-05,10:30,2500,Cancelled
+B084,C011,Neha,Female,18,Madhapur,T006,Kavya,S005,Pedicure,900,2025-09-16,11:30,900,Cancelled
+B085,C012,Riya,Female,47,Madhapur,T007,Rajesh,S006,Hair Coloring,2500,2025-09-08,18:30,2500,Completed
+B086,C014,Aarav,Female,48,Kukatpally,T004,Pooja,S006,Hair Coloring,2500,2025-09-05,16:00,2500,Completed
+B087,C017,Rahul,Female,24,Kukatpally,T001,Anil,S004,Manicure,800,2025-09-01,20:00,800,Cancelled
+B088,C005,Vivaan,Female,34,Madhapur,T005,Pooja,S004,Manicure,800,2025-09-03,14:30,800,Cancelled
+B089,C016,Neha,Male,22,Gachibowli,T006,Pooja,S003,Massage,1500,2025-09-08,20:00,1500,Cancelled
+B090,C004,Vivaan,Female,28,Madhapur,T001,Meera,S003,Massage,1500,2025-09-02,13:30,1500,Cancelled
+B091,C014,Diya,Male,51,Kukatpally,T005,Pooja,S002,Facial,1200,2025-09-06,11:00,1200,Cancelled
+B092,C020,Ananya,Female,55,Gachibowli,T002,Suresh,S006,Hair Coloring,2500,2025-09-09,16:30,2500,Completed
+B093,C015,Ishaan,Male,22,Kukatpally,T003,Anil,S003,Massage,1500,2025-09-14,20:30,1500,Cancelled
+B094,C010,Ananya,Female,48,Banjara Hills,T002,Suresh,S005,Pedicure,900,2025-09-12,18:30,900,Cancelled
+B095,C001,Kabir,Female,18,Secunderabad,T007,Pooja,S006,Hair Coloring,2500,2025-09-02,18:30,2500,Cancelled
+B096,C008,Rahul,Female,32,Gachibowli,T005,Kavya,S006,Hair Coloring,2500,2025-09-05,19:00,2500,Completed
+B097,C010,Aditi,Male,55,Madhapur,T006,Rajesh,S001,Haircut,400,2025-09-10,14:30,400,Completed
+B098,C007,Diya,Female,51,Secunderabad,T003,Arjun,S002,Facial,1200,2025-09-09,16:30,1200,Cancelled
+B099,C004,Aditi,Male,27,Gachibowli,T007,Pooja,S006,Hair Coloring,2500,2025-09-13,17:30,2500,Completed
+B100,C013,Aarav,Female,52,Banjara Hills,T004,Kavya,S006,Hair Coloring,2500,2025-09-09,18:30,2500,Cancelled
